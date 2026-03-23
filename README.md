@@ -53,7 +53,7 @@ There two main options
 
 Clone this repo
    ```
-   git clone https://github.com/jeju2486/GeneScanner.git
+   git clone https://github.com/Sheppard-Lab/GeneScanner.git
    ```
 
 Install
