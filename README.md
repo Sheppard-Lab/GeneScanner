@@ -88,6 +88,10 @@ Then, you can install GeneScanner from source via pip as done above.
 
 You can also install through bioconda installation with easier dependency check.
 
+ ```
+ conda env create -f environment.yml
+ ```
+
 ```
 conda install bioconda::genescanner
 ```
