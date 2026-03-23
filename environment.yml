@@ -30,6 +30,7 @@ dependencies:
   - ca-certificates
   - zlib
   - sqlite
+  - snp-sites
   - bioconda::mafft
   - conda-forge::openpyxl
   - pip:
