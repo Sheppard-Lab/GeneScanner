@@ -63,7 +63,7 @@ Install
 
 This will install all the Python dependencies.
 
-2. Install conda environment (Recommended)
+2. Install conda environment
 
 You can also install Python dependencies via conda with the `environment.yml` file.
 This will avoid any potential version dependencies.
@@ -82,6 +82,14 @@ Then, you can install GeneScanner from source via pip as done above.
 
 ```
    pip install GeneScanner/
+```
+
+3. Installation from bioconda (Recommended)
+
+You can also install through bioconda installation with easier dependency check.
+
+```
+conda install bioconda::genescanner
 ```
 
 ## How to Use
